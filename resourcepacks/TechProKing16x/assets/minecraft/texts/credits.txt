@@ -76,10 +76,11 @@
 §f			Helios16x - Sun, moon, and water textures
 §f			Skyline16x & ggmen16x - cloud2.png and starfield03.png, respectively
 §f			DarkBlueNebula & DarkBlueRed - The other skies (cloud1 and skybox + skybox2, respectively)
-§f			Frinosx16-particles - Particles
+§f			CriticalForcefield-particles - Particles
 
 §Note:
 §f			This texture pack includes custom edits and modifications to textures, images, and other elements from various resource packs. As a result, the textures you see in this pack may differ from the original versions credited. I made these adjustments to enhance the overall experience and blend the elements harmoniously. Thank you for understanding!
+§f			This texture pack was originally based on the Tenger16x texture pack, although many modifications have been made. Therefore, any elements in this pack that aren’t credited to other sources were taken from the Tenger16x texture pack, except for the hardcore hearts texture, which is custom (only the standard red-colored ones). 
 
 
 §f"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover." §7- Unknown
