@@ -71,7 +71,7 @@
 §Original Textures:
 §f			Tenger16x - Block Breaking animation, Main menu screen backgrounds
 §f			WoolWars16x - Some of the GUI (Containers, HUD)
-§f			Skyline16x - The rest of the GUI (menu buttons, newer Mojang logo, etc.), items, particles
+§f			Skyline16x - The rest of the GUI (menu buttons, newer Mojang logo, etc.), items
 §f			Dimku's1k16x - Block textures
 §f			Helios16x - Sun, moon, and water textures
 §f			Skyline16x & ggmen16x - cloud2.png and starfield03.png, respectively
