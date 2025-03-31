@@ -1,0 +1,8 @@
+Generator debug info
+--------------------
+
+RPW version:  4.2.0 on Windows 7
+Java version: Java(TM) SE Runtime Environment 1.7.0_79
+MC+assets v.: 1.7.2-Forge10.12.2.1121+legacym
+
+Generated:    2015/10/01
