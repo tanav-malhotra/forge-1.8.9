@@ -1,2 +1,4 @@
-logs/
-crash-reports/
+logs
+crash-reports
+*.log
+*/.DS_Store
