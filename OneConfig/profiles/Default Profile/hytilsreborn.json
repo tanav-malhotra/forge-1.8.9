@@ -18,7 +18,7 @@
   "autoGGFirstPhraseDelay": 1.0,
   "ggMessage2": "well played",
   "autoGGSecondPhraseDelay": 1.0,
-  "autoGL": false,
+  "autoGL": true,
   "glPhrase": 0,
   "antiGL": false,
   "autoFriend": false,

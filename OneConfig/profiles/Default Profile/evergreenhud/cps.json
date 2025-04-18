@@ -5,7 +5,9 @@
     "button": 2,
     "left": [],
     "leftPressed": false,
-    "right": [],
+    "right": [
+      1745005544353
+    ],
     "rightPressed": false,
     "brackets": false,
     "bracketsColor": {

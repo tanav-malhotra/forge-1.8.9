@@ -240,7 +240,7 @@
   "extendChatBackground": false,
   "chatPosition": false,
   "labyModMoment": true,
-  "selectedAudioDevice": "",
+  "selectedAudioDevice": "OpenAL Soft",
   "enabled": true,
   "canToggle": true
 }
